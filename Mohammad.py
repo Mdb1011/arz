@@ -1,5 +1,3 @@
-#bitcoin
-
 from colorma import Fore,init
 init()
 
