@@ -1,4 +1,4 @@
-from colorma import Fore,init
+from colorama import Fore,init
 init()
 
 http = requests.get("http://get-link.ir:8000/api/v2/crypto/").text
